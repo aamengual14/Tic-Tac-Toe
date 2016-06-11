@@ -1,0 +1,91 @@
+#container {
+  margin: 0 auto;
+  background-size: 100%;
+}
+
+header {
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#logo {
+  text-align: center;
+}
+
+#about {
+  text-align: center;
+}
+
+#start {
+  text-align: center;
+}
+
+i {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  display: inline;
+}
+
+/*/////////// Play Game Page //////////////*/
+
+#header {
+  text-align: center;
+  border: 2px solid black;
+  height: 100px;
+  background-color: tan;
+}
+
+#player-1{
+  height: 500px;
+  background-color: tan;
+  border: 2px solid black;
+  text-align: center;
+}
+
+#board{
+  height: 500px;
+  padding: 5% 5%;
+  background-color: tan;
+  border: 2px solid black;
+
+}
+
+#player-2{
+  height: 500px;
+  background-color: tan;
+  border: 2px solid black;
+  text-align: center;
+}
+
+#footer{
+  height: 100px;
+  background-color: tan;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.button-row{
+  height: 33%;
+  width: 100%;
+}
+
+
+button{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border-radius: 5px;
+    border: 2px solid black;
+    color: black;
+    background-color: white;}*/
+}
+
+
+
+
+
+
+
