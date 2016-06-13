@@ -1,37 +1,6 @@
-#container {
-  margin: 0 auto;
-  background-size: 100%;
-}
-
-header {
-  text-align: center;
-  font-family: 'Varela Round', sans-serif;
-}
-
-#logo {
-  text-align: center;
-}
-
-#about {
-  text-align: center;
-}
-
-#start {
-  text-align: center;
-}
-
-i {
-  text-align: center;
-}
-
-footer {
-  text-align: center;
-  display: inline;
-}
-
 /*/////////// Play Game Page //////////////*/
 
-#header {
+#header-game {
   text-align: center;
   border: 2px solid black;
   height: 100px;
